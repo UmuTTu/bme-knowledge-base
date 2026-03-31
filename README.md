@@ -4,7 +4,10 @@ This repository contains notes and resources for various topics in game programm
 
 Topics Covered
 -Graphics in games.
+
 -Physics concepts in games.
+
 -AI in games.
+
 -Networking in games.
 

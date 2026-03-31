@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 "# bme-knowledge-base" 
 =======
-# bme-knowledge-base
 This repository contains notes and resources for various topics in game programming. The goal is to create a structured knowledge base covering key concepts, tools, and technologies in each domain.
 
 Topics Covered

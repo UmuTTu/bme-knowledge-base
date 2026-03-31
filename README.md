@@ -2,4 +2,11 @@
 "# bme-knowledge-base" 
 =======
 # bme-knowledge-base
->>>>>>> c4d41acc12af8b98b649fe1e052674d486510f6e
+This repository contains notes and resources for various topics in game programming. The goal is to create a structured knowledge base covering key concepts, tools, and technologies in each domain.
+
+Topics Covered
+-Graphics in games.
+-Physics concepts in games.
+-AI in games.
+-Networking in games.
+
